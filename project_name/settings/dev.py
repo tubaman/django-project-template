@@ -1,4 +1,4 @@
-# Django development settings for newproj project.
+# Django development settings for {{ project_name }} project.
 from common import *
 
 DEBUG = True
